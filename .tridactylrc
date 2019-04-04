@@ -1,0 +1,4 @@
+set searchurls.j https://i.spoqa.com/issues/?jql=
+set searchurls.jql https://i.spoqa.com/issues/?jql=
+set searchurls.en https://alldic.daum.net/search.do?dic=eng&q=
+set searchurls.import https://docs.python.org/3/library/%s.html
