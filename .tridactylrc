@@ -1,5 +1,6 @@
-set searchurls.j https://i.spoqa.com/browse/
-set searchurls.jql https://i.spoqa.com/issues/?jql=
+set searchurls.jira https://hopsoffice.atlassian.net/browse/
+set searchurls.jql https://hopsoffice.atlassian.net/issues/?jql=
 set searchurls.en https://alldic.daum.net/search.do?dic=eng&q=
 set searchurls.import https://docs.python.org/3/library/%s.html
-set searchurls.w https://w.spoqa.com/dosearchsite.action?queryString=
+
+bind d tabprev
